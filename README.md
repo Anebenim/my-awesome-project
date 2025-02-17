@@ -1,2 +1,2 @@
-# textweb
-creating text web for demo use
+# testweb
+Foundations of the test web for demo use
